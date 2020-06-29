@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\scala",
+    "\\src\\main\\scala\\io",
+    "\\src\\main\\scala\\io\\swagger",
+    "\\src\\main\\scala\\io\\swagger\\client",
+    "\\src\\main\\scala\\io\\swagger\\client\\api"
+  ],
+  "SelectedNode": "\\src\\main\\scala\\io\\swagger\\client\\api\\PetApi.scala",
+  "PreviewInSolutionExplorer": false
+}
